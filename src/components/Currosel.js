@@ -14,7 +14,7 @@ const Currosel = () => {
                     <img class="d-block w-100" src="../img-01.jpg" />
                 </div>
                 <div>
-                    <img class="d-block w-100" src="../img-02.png" />
+                    <img class="d-block w-100" src="../img-02.jpg" />
                 </div>
                 <div>
                     <img class="d-block w-100" src="../img-03.png" />
